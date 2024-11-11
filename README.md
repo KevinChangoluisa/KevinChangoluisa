@@ -36,7 +36,7 @@ Soy un **Desarrollador Full Stack** con experiencia en **Python**, **Angular**, 
 ### **Especialista en Desarrollo de Software - PNUD**  
 - Desarrollo de aplicaciones en **Python** para análisis de datos meteorológicos.  
 - Implementación de algoritmos de control de calidad y almacenamiento de datos en **PostgreSQL**.  
-[Visor Hidrometeorológico](https://inamhi.gob.ec/info/visor/) | [Visor de Datos Hidrometeorológicos](https://inamhi.gob.ec/ddia/visor/)
+[Visor Horario de Datos Hidrometeorológico](https://inamhi.gob.ec/info/visor/) | [Visor diario de Datos Hidrometeorológicos](https://inamhi.gob.ec/ddia/visor/)
 
 ### **Técnico en Automatización de Procesos - UNV/PNUD**  
 *Quito, Ecuador | Mar 2022 – Jul 2023*  
