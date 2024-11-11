@@ -41,6 +41,8 @@ Soy un **Desarrollador Full Stack** con experiencia en **Python**, **Angular**, 
 ### **Técnico en Automatización de Procesos - UNV/PNUD**  
 - Automatización de procesos para el monitoreo hidrometeorológico y desarrollo de sistemas de alerta.  
 [Visor Hidrometeorológico](https://inamhi.gob.ec/visor/)
+[Ecuador cuenta con nuevo visor hidrometeorológico para fortalecer el monitoreo del tiempo meteorológico y el clima](https://adaptaclima.org/2023/07/26/ecuador-cuenta-con-nuevo-visor-hidrometeorologico-para-fortalecer-el-monitoreo-del-tiempo-meteorologico-y-el-clima/)
+
 
 ## Contacto
 
