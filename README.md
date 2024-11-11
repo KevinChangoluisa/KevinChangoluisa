@@ -1,4 +1,4 @@
-# Kevin Changoluisa :smiley:
+# Kevin Changoluisa
 
 ## Desarrollador Full Stack | Especialista en Procesos Hidrometeorológicos
 
