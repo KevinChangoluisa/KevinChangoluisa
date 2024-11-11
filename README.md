@@ -39,7 +39,6 @@ Soy un **Desarrollador Full Stack** con experiencia en **Python**, **Angular**, 
 [Visor Horario de Datos Hidrometeorológico](https://inamhi.gob.ec/info/visor/) | [Visor diario de Datos Hidrometeorológicos](https://inamhi.gob.ec/ddia/visor/)
 
 ### **Técnico en Automatización de Procesos - UNV/PNUD**  
-*Quito, Ecuador | Mar 2022 – Jul 2023*  
 - Automatización de procesos para el monitoreo hidrometeorológico y desarrollo de sistemas de alerta.  
 [Visor Hidrometeorológico](https://inamhi.gob.ec/visor/)
 
