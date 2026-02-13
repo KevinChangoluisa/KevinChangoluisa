@@ -1,4 +1,4 @@
-# Kevin Andrés Changoluisa
+# Kevin Changoluisa
 
 ## Ingeniero en Ciencias de la Computación | Full Stack Developer
 
