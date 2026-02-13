@@ -1,89 +1,113 @@
-# Kevin Changoluisa
+# Kevin Andrés Changoluisa
 
-## Desarrollador Full Stack | Ingeniero en Ciencias de la Computación
+## Ingeniero en Ciencias de la Computación | Full Stack Developer
 
-Soy desarrollador con experiencia en la construcción de aplicaciones escalables, automatización de procesos y diseño de arquitecturas eficientes. Mis principales lenguajes de trabajo son **Python**, **Angular** y **PostgreSQL**, junto con otras tecnologías complementarias que aplico según el contexto del proyecto, especialmente en entornos GIS y análisis de datos.
+Desarrollador Full Stack con más de 3 años de experiencia en el diseño e implementación de soluciones web escalables, arquitecturas orientadas a datos y automatización de procesos críticos. Especializado en backend con **Python (Django / Django REST Framework)** y frontend con **Angular**, integrando bases de datos **PostgreSQL/PostGIS** en entornos Linux productivos.
 
-He liderado y participado en proyectos para entidades públicas y organismos internacionales, desarrollando desde plataformas de visualización en tiempo real hasta sistemas de monitoreo, control de calidad y tableros analíticos con herramientas como Power BI. Aunque parte de mis desarrollos se encuentra en **repositorios privados por razones de confidencialidad**, puedo compartir ejemplos técnicos bajo solicitud.
-
-
-## Skills:
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=101010)]()
-
-[![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
-[![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-
-[![Angular](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white&labelColor=101010)]()
-[![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)]()
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
-
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
-
-
-## Experiencia Destacada
+He trabajado en proyectos para entidades públicas y organismos internacionales (INAMHI, PNUD, UNV), desarrollando plataformas institucionales de monitoreo en tiempo real, sistemas de validación de datos hidrometeorológicos e interoperabilidad binacional. Parte de los desarrollos se encuentran en repositorios privados por confidencialidad institucional; puedo compartir detalles técnicos bajo solicitud.
 
 ---
 
-### 🏢 **INAMHI – Especialista en Desarrollo de Software**
+# 🚀 Tech Stack
 
-📍 Ecuador | ⏱️ 2023 – Actualidad
-🔗 [Visor de Pronósticos](https://inamhi.gob.ec/pronos/visor-pronosticos/)
-🔗 [Visor Hidrometeorológico](https://inamhi.gob.ec/info/visor)
+### Backend
 
-**Responsabilidades y logros:**
+* Python
+* Django / Django REST Framework
+* .NET Core
+* APIs REST (autenticación, validación, integración de servicios)
 
-* Desarrollo de plataformas web interactivas para visualización de pronósticos y monitoreo hidrometeorológico.
-* Implementación de APIs REST en **Django** con autenticación por **JWT** y persistencia en **PostgreSQL**.
-* Despliegue completo en servidores **Linux**: instalación de **Nginx**, configuración de servicios y automatización de procesos para garantizar alta disponibilidad.
-* Creación de interfaces con mapas personalizables, paneles dinámicos y módulos administrativos.
-* Validación técnica de datos satelitales, asegurando calidad y trazabilidad en registros transmitidos por GOES.
+### Frontend
 
-**Tecnologías:** Python, Django, Angular, PostgreSQL, Nginx, Git, Linux, GIS, OpenLayers.
+* Angular
+* TypeScript
+* HTML5 / CSS3
+* JavaScript
+
+### Bases de Datos
+
+* PostgreSQL / PostGIS
+* MongoDB
+* MySQL
+
+### DevOps & Infraestructura
+
+* Linux (Ubuntu Server)
+* Nginx
+* Git
+* Automatización de procesos
+* Despliegue de servicios productivos
+
+### Data & GIS
+
+* Procesamiento y validación de datos
+* GeoServer / GeoNode
+* OpenLayers / Leaflet
+* Integración de datos satelitales
+* Power BI
+
+---
+
+# 💼 Experiencia Profesional
 
 ---
 
-### 🏢 **PNUD / INAMHI – Especialista en Desarrollo de Software**
+## 🏢 INAMHI – Especialista en Desarrollo de Software
 
-📍 Ecuador | ⏱️ 2022 – 2023
-🔗 [Visor Hidrometeorológico (INAMHI)](https://inamhi.gob.ec/info/visor)
+📍 Ecuador | **Marzo 2023 – Diciembre 2025**
+🔗 [https://inamhi.gob.ec/pronos/visor-pronosticos/](https://inamhi.gob.ec/pronos/visor-pronosticos/)
+🔗 [https://inamhi.gob.ec/info/visor](https://inamhi.gob.ec/info/visor)
 
-**Responsabilidades y logros:**
+**Impacto y principales logros:**
 
-* Desarrollo de procesos de validación automatizada para datos meteorológicos con **Python** y **PostgreSQL**.
-* Implementación de algoritmos de control de calidad: umbrales, consistencia interna, detección de errores y análisis multivariable.
-* Integración de datos del **IDEAM (Colombia)** en la infraestructura del INAMHI, para su almacenamiento y visualización institucional.
-* Participación técnica en la estructuración del visor institucional con enfoque geoespacial e interoperable.
+* Diseño y desarrollo del **frontend y backend de la Plataforma Institucional de Pronósticos**, utilizada para la generación, edición y publicación oficial de pronósticos hidrometeorológicos.
+* Implementación de **APIs REST en Django** para gestión, validación y almacenamiento estructurado de información meteorológica.
+* Desarrollo del **Visor Hidrometeorológico Nacional**, integrando datos en tiempo real de la red nacional de estaciones.
+* Integración de **redes meteorológicas externas** y módulo binacional de interoperabilidad con IDEAM (Colombia).
+* Modelado y optimización de bases de datos **PostgreSQL/PostGIS** para manejo de grandes volúmenes de datos geoespaciales.
+* Automatización de descarga y validación de datos satelitales (NOAA/GOES – DCS).
+* Despliegue y administración en servidores **Linux con Nginx**, garantizando estabilidad y continuidad operativa.
+* Implementación de servicios geoespaciales con **GeoServer y GeoNode** para publicación institucional.
 
-**Tecnologías:** Python, PostgreSQL, GIS, automatización, procesamiento de datos, interoperabilidad.
+**Stack:** Python, Django, Angular, PostgreSQL, PostGIS, Nginx, Linux, GeoServer, OpenLayers, Git.
+
+---
+
+## 🏢 PNUD / INAMHI – Especialista en Desarrollo de Software
+
+📍 Ecuador | **Septiembre 2023 – Agosto 2024**
+
+**Impacto y principales logros:**
+
+* Desarrollo de algoritmos de tratamiento, control de calidad y validación de datos hidrometeorológicos.
+* Implementación de validaciones automáticas: umbrales, coherencia temporal y análisis multivariable.
+* Integración binacional de información entre **IDEAM (Colombia)** e **INAMHI (Ecuador)** mediante protocolos de interoperabilidad.
+* Desarrollo de procesos automatizados para recepción, validación y transferencia de datos institucionales.
+* Participación técnica en la estructuración del visor institucional con enfoque geoespacial.
+
+**Stack:** Python, PostgreSQL, interoperabilidad, procesamiento de datos, GIS.
 
 ---
 
-### 🏢 **UNV / PNUD – Técnico en Automatización de Procesos**
+## 🏢 UNV / PNUD – Técnico en Automatización de Procesos
 
-📍 Ecuador | ⏱️ 2022 – 2023
-📰 [Nota oficial – Adaptaclima](https://adaptaclima.org/2023/07/26/ecuador-cuenta-con-nuevo-visor-hidrometeorologico-para-fortalecer-el-monitoreo-del-tiempo-meteorologico-y-el-clima/)
+📍 Ecuador | **Marzo 2022 – Agosto 2023**
+📰 [https://adaptaclima.org/2023/07/26/ecuador-cuenta-con-nuevo-visor-hidrometeorologico-para-fortalecer-el-monitoreo-del-tiempo-meteorologico-y-el-clima/](https://adaptaclima.org/2023/07/26/ecuador-cuenta-con-nuevo-visor-hidrometeorologico-para-fortalecer-el-monitoreo-del-tiempo-meteorologico-y-el-clima/)
 
-**Responsabilidades y logros:**
+**Impacto y principales logros:**
 
-* Desarrollo de visor técnico para la cuenca del río Esmeraldas, integrando estaciones meteorológicas, niveles de ríos y focos de calor.
-* Automatización de alertas operativas por correo electrónico y Telegram.
-* Generación de boletines técnicos automáticos e integración de modelos hidrológicos.
+* Desarrollo del visor técnico para la cuenca del río Esmeraldas.
+* Automatización de alertas hidrometeorológicas en tiempo real vía correo electrónico y Telegram.
+* Generación automática de boletines técnicos.
+* Integración de modelos hidrológicos y visualización geoespacial.
+* Contribución al fortalecimiento del monitoreo climático nacional en el marco del proyecto AdaptaClima.
 
-**Tecnologías:** Python, PostgreSQL, Leaflet, HTML/CSS, servicios automatizados.
-
-## Contacto
-
-- **LinkedIn:** [Kevin Changoluisa](https://www.linkedin.com/in/kevinchangoluisa)  
-- **GitHub:** [KevinChangoluisa](https://github.com/KevinChangoluisa)  
-- **Correo Electrónico:** [kchangoluisa@hotmail.com](mailto:kchangoluisa@hotmail.com)
+**Stack:** Python, PostgreSQL, Leaflet, HTML/CSS, automatización.
 
 ---
+
+# 📫 Contacto
+
+* LinkedIn: [https://www.linkedin.com/in/kevinchangoluisa](https://www.linkedin.com/in/kevinchangoluisa)
+* GitHub: [https://github.com/KevinChangoluisa](https://github.com/KevinChangoluisa)
+* Correo: [kchangoluisa@hotmail.com](mailto:kchangoluisa@hotmail.com)
